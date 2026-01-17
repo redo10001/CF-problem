@@ -19,7 +19,6 @@ int main() {
 
         ans = min(ans, cnt);
     }
-
     cout << ans;
     return 0;
 }
